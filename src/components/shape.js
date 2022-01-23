@@ -3,7 +3,7 @@
 // export class using module.exports
 export class Shape{
     constructor(color){
-        this.color = color
+        this.color = 'red'
     }
     drawShape(){
         console.log("");
